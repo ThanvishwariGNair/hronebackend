@@ -24,5 +24,5 @@ This project is built as part of the *HROne Backend Intern Hiring Task*.
 - **Language**: Python 3.11+
 - **Framework**: FastAPI
 - **Database**: MongoDB (using *Motor* async driver)
-- **Hosting**: [Render]( https://hronebackend-goja.onrender.com) 
+- **Hosting**: (https://hronebackend-goja.onrender.com) 
 - **Documentation**: Auto-generated with FastAPI’s Swagger UI
